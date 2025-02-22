@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Adrian
-middle_name:
+middle_name: 
 last_name: Vladu
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -46,12 +46,7 @@ rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
-# ---------------------------------------------{
-  "singleQuote": true,
-  "trailingComma": "es5",
-  "tabWidth": 2,
-  "semi": true
-}--------------------------------
+# -----------------------------------------------------------------------------
 
 navbar_fixed: true
 footer_fixed: true
@@ -197,7 +192,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
