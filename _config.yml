@@ -47,10 +47,10 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 # Layout
 # ---------------------------------------------{
-  "singleQuote": true,
-  "trailingComma": "es5",
-  "tabWidth": 2,
-  "semi": true
+"singleQuote": true,
+"trailingComma": "es5",
+"tabWidth": 2,
+"semi": true
 }--------------------------------
 
 navbar_fixed: true
