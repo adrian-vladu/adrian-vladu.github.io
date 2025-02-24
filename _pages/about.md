@@ -6,7 +6,7 @@ subtitle: Research Scientist, <a href='#'>CNRS</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic_bw2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3041 Bâtiment Sophie Germain</p>
